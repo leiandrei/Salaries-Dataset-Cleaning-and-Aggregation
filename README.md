@@ -1,4 +1,4 @@
-# Salaries Dataset Cleaning and Aggregation
+## Salaries Dataset Cleaning and Aggregation
 
 ## Project Structure
 *   `data/`
@@ -8,6 +8,27 @@
 *   `notebooks/`
     *   `analysis.ipynb`
 *   `README.md`
+
+## Pre-requisite Python Libraries for this Notebook Analysis
+* Pandas
+```bash
+pip install pandas
+```
+
+* Numpy
+```bash
+pip install numpy
+```
+
+* Matplotlib 
+```bash
+pip install matplotlib
+```
+
+* Seaborn
+```bash
+pip install seaborn
+```
 
 ## Dataset From Kaggle
 ```bash
