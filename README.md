@@ -10,22 +10,19 @@
 *   `README.md`
 
 ## Pre-requisite Python Libraries for this Notebook Analysis
-* Pandas
+Pandas
 ```bash
 pip install pandas
 ```
-
-* Numpy
+Numpy
 ```bash
 pip install numpy
 ```
-
-* Matplotlib 
+Matplotlib 
 ```bash
 pip install matplotlib
 ```
-
-* Seaborn
+Seaborn
 ```bash
 pip install seaborn
 ```
