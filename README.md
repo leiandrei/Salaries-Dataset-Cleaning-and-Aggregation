@@ -32,7 +32,3 @@ pip install seaborn
 ## Dataset From Kaggle
 ```bash
 https://www.kaggle.com/datasets/satyam0123/salaries-case-study
-
-
-
-
