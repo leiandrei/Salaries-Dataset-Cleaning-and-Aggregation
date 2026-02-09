@@ -1,5 +1,7 @@
 ## Salaries Dataset Cleaning and Aggregation
 
+This Python Notebook Project showcases my skills on cleaning messy dataset, and creating groupby and pivot tables for a more robust and accurate data analysis. (This project is still ongoing).
+
 ## Project Structure
 *   `data/`
     *   `database.sqlite`
@@ -30,5 +32,6 @@ pip install seaborn
 ## Dataset From Kaggle
 ```bash
 https://www.kaggle.com/datasets/satyam0123/salaries-case-study
+
 
 
