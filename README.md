@@ -4,12 +4,14 @@ This Python Notebook Project showcases my skills on data cleaning, and preparati
 
 ## Project Structure
 *   `data/`
-    *   `database.sqlite`
-    *   `salaries_cleaned.csv`
-    *   `Salaries.csv`
+    *   `raw/`
+       *  `database.sqlite`
+    *   `processed/`
+       *  `clean_data.csv`  
 *   `notebooks/`
     *   `analysis.ipynb`
 *   `README.md`
+*   `requirements.txt`
 
 ## Pre-requisite Python Libraries for this Notebook Analysis
 Pandas
