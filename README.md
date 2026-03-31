@@ -10,6 +10,7 @@ This Python Notebook Project showcases my skills on data cleaning, and preparati
        *  `clean_data.csv`  
 *   `notebooks/`
     *   `analysis.ipynb`
+    *   `cleaning.ipynb`
 *   `README.md`
 *   `requirements.txt`
 
